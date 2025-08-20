@@ -43,7 +43,7 @@ A lightweight blog application built with **PHP** and **MySQL**, featuring user 
    ```bash
    php -S localhost:8000
    ```
-   Visit **http://localhost:8000/PHPCode.php?page=home**
+
 
  📌 Roadmap
 - Add post creation/editing/deletion.  
